@@ -18,3 +18,4 @@ In 2018, they released an interesting report which shows that the number of TV s
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
 
+<img width="1440" alt="Screenshot 2023-02-28 at 11 56 41 PM" src="https://user-images.githubusercontent.com/126643785/222048446-83c03a59-d349-4a4f-b57a-000db218ad1a.png">
