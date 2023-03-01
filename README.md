@@ -1,5 +1,10 @@
-# NetflixDashboard
+# Netflix Dashboard
+
+
 Netflix Movie Tableau Dashboard
+This the tableau dashboard I tried to make using a youtube video. I tried to follow the steps in the video.
+Link of the video: https://www.youtube.com/watch?v=BTArwS4ljC4
+
 
 Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows/versions/3?resource=download
 
